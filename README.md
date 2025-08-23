@@ -1,4 +1,5 @@
 # currently-learning
 
-Fine Tuning Models - https://www.youtube.com/watch?v=iOdFUJiB0Zc
-React Native - https://www.youtube.com/watch?v=JKccS9k56_I
+Fine Tuning Models - https://www.youtube.com/watch?v=iOdFUJiB0Zc  
+React Native - https://www.youtube.com/watch?v=JKccS9k56_I  
+
